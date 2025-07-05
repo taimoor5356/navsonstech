@@ -4,7 +4,7 @@
 /*=============== VARIABLES CSS ===============*/
 :root {
   /*========== Colors ==========*/
-  --hue: 165;
+  --hue: 958;
   --first-color: hsl(var(--hue), 60%, 40%);
   --title-color: hsl(var(--hue), 4%, 12%);
   --text-color: hsl(var(--hue), 4%, 20%);
