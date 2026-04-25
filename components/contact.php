@@ -21,8 +21,7 @@
                 </div>
                 <div class="content">
                   <h4>Our Location</h4>
-                  <p>St#08, Phase 4C-2</p>
-                  <p>Ghouri Town, Islamabad 44000</p>
+                  <p>Top City, Islamabad 44000</p>
                 </div>
               </div>
 
