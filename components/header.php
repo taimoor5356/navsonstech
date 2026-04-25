@@ -12,13 +12,13 @@
       <nav id="navmenu" class="navmenu">
 
         <div class="profile-img">
-          <img src="assets/img/profile/nst-logo.png" alt="" class="img-fluid rounded-circle">
+          <img src="assets/img/profile/tech_blue_logo.png" alt="" class="img-fluid rounded-circle">
         </div>
 
         <a href="index.html" class="logo d-flex align-items-center justify-content-center active">
           <!-- Uncomment the line below if you also wish to use an image logo -->
           <!-- <img src="assets/img/logo.webp" alt=""> -->
-          <h1 class="sitename">Navsons Group</h1>
+          <h1 class="sitename">Tech.Navsons</h1>
         </a>
 
         <div class="social-links text-center">
