@@ -43,8 +43,7 @@
                 </div>
                 <div class="content">
                   <h4>Email Address</h4>
-                  <p>navsonsgroup@gmail.com</p>
-                  <p>mtaimoornaveed@gmail.com</p>
+                  <p>info@navsonsgroup.com</p>
                 </div>
               </div>
             </div>

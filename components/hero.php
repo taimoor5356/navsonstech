@@ -55,7 +55,7 @@
                 <span>Creative Ideas</span>
             </div>
             </div>
-            <img src="assets/img/profile/nst-logo.png" alt="Portfolio Hero" class="img-fluid hero-main-image">
+            <img src="assets/img/profile/tech_blue_logo.png" alt="Portfolio Hero" class="img-fluid hero-main-image">
             <div class="image-overlay"></div>
         </div>
         </div>

@@ -3,7 +3,7 @@
 
     <div class="container">
       <div class="copyright text-center ">
-        <p>© <span>Copyright</span> <strong class="px-1 sitename">NavsonsGroup</strong> <span>All Rights Reserved</span></p>
+        <p>2026 © <span>Copyright</span> <strong class="px-1 sitename">NavsonsGroup</strong> <span>All Rights Reserved</span></p>
       </div>
       <div class="social-links d-flex justify-content-center">
         <a href="https://x.com/NavsonsGroup"><i class="bi bi-twitter-x"></i></a>
